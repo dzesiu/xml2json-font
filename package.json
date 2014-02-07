@@ -1,0 +1,22 @@
+{
+  "name": "XML2JSONFont",
+  "version": "0.0.1",
+  "description": "Node.js-based tool converting XML bitmap font description to JSON format",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bm",
+    "font",
+    "nodejs",
+    "xml",
+    "json",
+    "font"
+  ],
+  "author": "Grzegorz Pabian",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "~0.4.1"
+  }
+}
