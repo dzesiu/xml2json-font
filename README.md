@@ -6,6 +6,8 @@ Overview
 
 This is a simple Node.js-based tool used to convert font description file created by [BMFont](http://www.angelcode.com/products/bmfont/) from XML to JSON format.
 
+Inspired by [this thread](http://www.html5gamedevs.com/topic/2312-ludei-cocoonjs-xml-bitmap-font-workaround/).
+
 To see what's the actual output check `/example` directory
 
 Usage
@@ -19,7 +21,7 @@ Usage
 
     `npm install`
     
-4.  Convert files
+4.  Convert a file
 
     `node convert <path_to_input_file.xml> <path_to_output_file.json>`
     
